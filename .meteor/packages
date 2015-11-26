@@ -18,3 +18,19 @@ ecmascript              # Enable ECMAScript2015+ syntax in app code
 
 autopublish             # Publish all data to the clients (for prototyping)
 insecure                # Allow all DB writes from clients (for prototyping)
+
+
+# Dev Environment
+mquandalle:jade         # I like jade
+check                   # helper for checking inputs
+xolvio:cucumber         # testing
+
+
+# Conversion Tools
+momentjs:moment         # Usually needed for date work
+numeral:numeral         # Needed less often but good for currency etc.
+
+
+
+# UI
+fortawesome:fontawesome # Awesome
