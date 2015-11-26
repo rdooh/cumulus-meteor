@@ -35,6 +35,7 @@ alanning:roles          # extend authorization
 
 # Data Structure
 aldeed:collection2      # schemas
+dburles:collection-helpers  # more domain object power
 
 
 # Conversion Tools
