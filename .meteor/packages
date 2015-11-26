@@ -23,13 +23,23 @@ insecure                # Allow all DB writes from clients (for prototyping)
 # Dev Environment
 mquandalle:jade         # I like jade
 check                   # helper for checking inputs
+audit-argument-checks   # checks for check
 xolvio:cucumber         # testing
+
+
+# General Security
+browser-policy          # will allow better control of framing etc
+
+# Accounts
+alanning:roles          # extend authorization
+
+# Data Structure
+aldeed:collection2      # schemas
 
 
 # Conversion Tools
 momentjs:moment         # Usually needed for date work
 numeral:numeral         # Needed less often but good for currency etc.
-
 
 
 # UI

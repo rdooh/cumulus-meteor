@@ -5,7 +5,7 @@ This simple app will do something interesting
 
 
 ## Simple game plan
-- [ ] dev environment
+- [x] dev environment
 - [ ] set up schemas
 - [ ] set up basic collections, minor testing
 - [ ] set up simple page for testing output to screen
