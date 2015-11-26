@@ -36,6 +36,7 @@ iron:router
 
 
 # Accounts
+accounts-password       # add basic accounts
 alanning:roles          # extend authorization
 
 # Data Structure
@@ -49,4 +50,6 @@ numeral:numeral         # Needed less often but good for currency etc.
 
 
 # UI
+twbs:bootstrap
+ian:accounts-ui-bootstrap-3
 fortawesome:fontawesome # Awesome
