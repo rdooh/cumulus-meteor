@@ -2,6 +2,7 @@ nav
   ul
     li
       a(href='/') Home 
-    li
-      a(href='/dashboard/') Dashboard (if logged in)
+    if currentUser
+      li
+        a(href='/dashboard/') Dashboard (if logged in)
 +loginButtons

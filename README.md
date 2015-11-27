@@ -6,7 +6,7 @@ This simple app will do something interesting
 
 ## Simple game plan
 - [x] dev environment
-- [ ] set up basic accounts
+- [x] set up basic accounts
 - [ ] set up simple pages for testing output to screen
 - [ ] set up schemas
 - [ ] set up basic collections, minor testing
