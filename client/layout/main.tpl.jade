@@ -1,3 +1,12 @@
+nav 
+  ul
+    li
+      a(href='/') Home 
+    if currentUser
+      li
+        a(href='/dashboard/') Dashboard (if logged in)
++loginButtons
+
 h1 The Application
 // Main view
 +yield

@@ -24,7 +24,9 @@ insecure                # Allow all DB writes from clients (for prototyping)
 mquandalle:jade         # I like jade
 check                   # helper for checking inputs
 audit-argument-checks   # checks for check
-xolvio:cucumber         # testing
+xolvio:cucumber         # E2E testing
+sanjo:jasmine           # Unit testing
+velocity:html-reporter  # Unit testing
 
 
 
@@ -53,3 +55,4 @@ numeral:numeral         # Needed less often but good for currency etc.
 twbs:bootstrap
 ian:accounts-ui-bootstrap-3
 fortawesome:fontawesome # Awesome
+practicalmeteor:sinon

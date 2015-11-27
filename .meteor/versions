@@ -81,6 +81,7 @@ ordered-dict@1.0.4
 package-version-parser@3.0.4
 practicalmeteor:chai@1.9.2_3
 practicalmeteor:loglevel@1.1.0_3
+practicalmeteor:sinon@1.10.3_2
 promise@0.5.1
 random@1.0.5
 rate-limit@1.0.0
@@ -89,6 +90,8 @@ reactive-var@1.0.6
 reload@1.1.4
 retry@1.0.4
 routepolicy@1.0.6
+sanjo:jasmine@0.16.2
+sanjo:karma@1.6.1
 sanjo:long-running-child-process@1.1.3
 sanjo:meteor-files-helpers@1.1.0_7
 sanjo:meteor-version@1.0.0
@@ -112,6 +115,7 @@ velocity:chokidar@1.2.0_1
 velocity:core@0.10.9
 velocity:html-reporter@0.9.1
 velocity:meteor-internals@1.1.0_7
+velocity:meteor-stubs@1.1.1
 velocity:shim@0.1.0
 velocity:source-map-support@0.3.2_1
 webapp@1.2.3
